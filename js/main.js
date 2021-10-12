@@ -1,4 +1,4 @@
-const WORLD_SIZE = [100, 100, 100];
+const WORLD_SIZE = [75, 75, 75];
 const CELLS = WORLD_SIZE.reduce((a, b) => a*b);
 const PARTICLES = 20000;
 
